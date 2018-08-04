@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ActivityLifeCycle</string>
+    <string name="login_1">Login 1</string>
+    <string name="login_2">Login 2</string>
+    <string name="login_3">Login 3</string>
+    <string name="login_4">Login 4</string>
+    <string name="login_5">Login 5</string>
+    <string name="username_hint">Username</string>
+    <string name="btn_login">Login</string>
+    <string name="Password_hint">Password</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="title_activity_login_1">LoginActivity_1</string>
+    <string name="title_activity_login_2">LoginActivity_2</string>
+    <string name="title_activity_login_3">LoginActivity_3</string>
+    <string name="title_activity_login_4">LoginActivity_4</string>
+    <string name="title_activity_login_5">LoginActivity_5</string>
+    <string name="title_activity_lofin_5">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
